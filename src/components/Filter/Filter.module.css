@@ -1,0 +1,12 @@
+.wrapper {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 1px dotted #ffffff;
+}
+
+.input {
+  margin-left: 15px;
+}

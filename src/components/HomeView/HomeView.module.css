@@ -1,0 +1,17 @@
+.container {
+  min-height: calc(80vh - 30px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(register.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 50;
+  text-align: center;
+  color: #ffffff;
+}
